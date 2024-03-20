@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace programming011.formsui2
+namespace programming011.snake
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace programming011.formsui2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new StartForm());
         }
     }
 }

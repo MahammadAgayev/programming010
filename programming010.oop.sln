@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programming010.forms", "pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programming011.formsui2", "programming011.formsui2\programming011.formsui2.csproj", "{3CF7EB1A-29E9-48E3-8C61-2AB26129CB9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programming011.snake", "programming011.snake\programming011.snake.csproj", "{54162690-CB25-4323-A4E4-91401BAECB0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3CF7EB1A-29E9-48E3-8C61-2AB26129CB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF7EB1A-29E9-48E3-8C61-2AB26129CB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF7EB1A-29E9-48E3-8C61-2AB26129CB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54162690-CB25-4323-A4E4-91401BAECB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54162690-CB25-4323-A4E4-91401BAECB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54162690-CB25-4323-A4E4-91401BAECB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54162690-CB25-4323-A4E4-91401BAECB0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
