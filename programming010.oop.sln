@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programming011.snake", "pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programming011.events", "programming011.events\programming011.events.csproj", "{77C4129B-34FF-48CF-A3E5-B41688DE0861}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programming011.reflection", "programming011.\programming011.reflection.csproj", "{C115A5EC-E163-4114-BE8D-11814CC3E132}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{77C4129B-34FF-48CF-A3E5-B41688DE0861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77C4129B-34FF-48CF-A3E5-B41688DE0861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77C4129B-34FF-48CF-A3E5-B41688DE0861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C115A5EC-E163-4114-BE8D-11814CC3E132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C115A5EC-E163-4114-BE8D-11814CC3E132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C115A5EC-E163-4114-BE8D-11814CC3E132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C115A5EC-E163-4114-BE8D-11814CC3E132}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
